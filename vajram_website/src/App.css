@@ -369,7 +369,7 @@ background-color: white !important;
   height: var(--bs-accordion-btn-icon-width);
   margin-left: auto;
   content: "";
-  background-image: var(--bs-accordion-btn-icon);
+  background-image: url("https://dsc1bri60i31v.cloudfront.net/images/icons/plus.svg");
   background-repeat: no-repeat;
   background-size: var(--bs-accordion-btn-icon-width);
   transition: var(--bs-accordion-btn-icon-transition);
